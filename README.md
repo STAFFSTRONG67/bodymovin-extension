@@ -21,4 +21,4 @@ For more information on Telegram Animated Stickers, see [this page][animated_sti
 [zxp_installer]: https://zxpinstaller.com
 [bodymovin_tg]: https://github.com/TelegramMessenger/bodymovin-extension/releases
 [ae_guide]: http://airbnb.io/lottie/#/after-effects?id=creating-lottie-animations
-[animated_stickers]: https://core.telegram.org/animated_stickers
+[animated_stickers]: https://core.telegram.org/animated_stickers.
